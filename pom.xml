@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>miu.cs425</groupId>
-    <artifactId>eResgistraAPI</artifactId>
+    <artifactId>eRegistraAPI</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>eResgistraAPI</name>
-    <description>eResgistraAPI</description>
+    <name>eRegistraAPI</name>
+    <description>eRegistraAPI</description>
     <properties>
         <java.version>17</java.version>
     </properties>

@@ -1,13 +1,13 @@
-package miu.cs425.eresgistra.api;
+package miu.cs425.eregistra.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EResgistraApiApplication {
+public class ERegistraApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(EResgistraApiApplication.class, args);
+        SpringApplication.run(ERegistraApiApplication.class, args);
     }
 
 }
